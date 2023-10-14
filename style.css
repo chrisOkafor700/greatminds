@@ -538,3 +538,12 @@ padding: 6px;
 }
  
 }
+.images{
+    width: 100%;
+    margin: 10px;
+    display: grid;
+    grid-auto-flow: column;
+    overflow-x: auto;
+    gap: 20px;
+    margin-right: 20px;
+}
