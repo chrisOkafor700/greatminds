@@ -95,7 +95,6 @@ li{
     transition-delay: 1.5s;
     background-color: white;
     z-index: 999;
-    background-image:url(../syringe.png)
 }
 .text span{
     font-size: 40px;
