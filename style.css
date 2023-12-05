@@ -229,6 +229,9 @@ swiper-slide:nth-child(5) img{
 .images2 img{
     height:350px;
     width:350px;
+} 
+.images2{
+    margin:12px;
 }
 
 .marquee-container{
